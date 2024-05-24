@@ -14,7 +14,7 @@
 
 **Technologies:**
   The following technologies are used in this project:
-   - Youtube API: Google API is used to retrieve channel and video data from Youtube. 
+   * Youtube API: Google API is used to retrieve channel and video data from Youtube. 
    * Python: The programming language used for building the application and scripting tasks.
    * MongoDB: A NoSQL database used as a data lake for storing retrieved Youtube data.
    * MySQL(SQL): A relational database used as a data warehouse for storing migrated Youtube Data.
